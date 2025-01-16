@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "danysantosmorel@gmail.com",
+      "name": "Dany Santos",
+      "phone": "8099543302",
+      "password": "$2a$10$akRdWopQ8ftoemiseSa0IeXOF4VM9xDxwJzCIpwCJ4KbZsUCpz7Ki",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "userId": 1,
+      "status": "TODO",
+      "description": "Description for new task.",
+      "title": "New Task",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Another Task",
+      "description": "Description for another task.",
+      "status": "PROGRESS"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "Third Task",
+      "description": "Description for third task.",
+      "status": "DONE"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "Fourth Task",
+      "description": "Description for fourth task.",
+      "status": "TODO"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Fifth Task",
+      "description": "Description for fifth task.",
+      "status": "PROGRESS"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "Sixth Task",
+      "description": "Description for sixth task.",
+      "status": "DONE"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Seventh Task",
+      "description": "Description for seventh task.",
+      "status": "TODO"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "title": "Eighth Task",
+      "description": "Description for eighth task.",
+      "status": "PROGRESS"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "title": "Ninth Task",
+      "description": "Description for ninth task.",
+      "status": "DONE"
+    }
+  ]
+}

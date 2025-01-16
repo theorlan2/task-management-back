@@ -1,0 +1,16 @@
+{
+  "name": "fakeserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 4000 db.json -m ./node_modules/json-server-auth"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
