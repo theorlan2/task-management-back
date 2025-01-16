@@ -1,6 +1,6 @@
-## Initializing Mock API using task-management-back with json-server and json-server-auth
+## Mock API to task-management with json-server and json-server-auth
 
-To set up a mock API using the `task-management-back` repository and `json-server-auth`, follow these steps:
+To set up a mock API using  `json-server-auth`, follow these steps:
 
 1. Clone the `task-management-back` repository:
 
